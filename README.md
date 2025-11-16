@@ -38,7 +38,9 @@
 
 # Installation 
 ## Windows x64
-*To install the program on windows 10-11 (any edition) just download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or click here -> [ContextokenizeX release for Windows (10-11) x64](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar) unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
+*To install the program on windows 10-11 (any edition) just download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or click here -> [ContextokenizeX Windows x64 release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
+
+*Unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
 
 *If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from here -> [latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
 
