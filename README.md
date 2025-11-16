@@ -34,7 +34,7 @@
 # Overview
 
 # Usage
-*Contexted data* **is your output data or in other words found contexts**  
+*Context tokenized data* **is your output data or in other words found contexts**  
 
 *Raw input data* **is the plain text where you want to search your context supports UTF-8**  
 
@@ -78,7 +78,7 @@
 
 *Estimated time: 4 µs*
 
-**If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there are found subtoken it will return them mixed:**
+**If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there is/are found subtoken(s) it will return mixed *Context tokenized data*:**
 
 *e.g: from Token to Token until it finds Subtoken (prints the context) and again until finds next Subtoken to print the context, it's not really recommended to do that since, contexted data might mix a lot*  
 
@@ -86,7 +86,7 @@
 
 **{NOTE-2} Always try to specify the *Subtoken*, it makes it faster to search, make sure that specified *Subtoken* exists in your input data**  
 
-**{NOTE-3} Contexting data of files such as: *binary, doc/docx/pdf etc* is not supported yet due to their different data structure, but you can still paste data from there manually**
+**{NOTE-3} Context tokenizing data of files such as: *binary, doc/docx/pdf etc* is not supported yet due to their different data structure, but you can still paste data from there manually**
 
 # Installation 
 ## Windows x64
