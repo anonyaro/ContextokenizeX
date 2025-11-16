@@ -11,16 +11,20 @@
   </a>
 </td>
 <td valign="top" style="padding-left:20px;">
+
   <strong style="font-size:22px; display:block; margin-bottom:0.5em;">
     ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with custom GUI.
   </strong>
 
-  <b style="display:block; margin-top:1em; margin-bottom:0.5em;">
+  <p style="margin:0 0 1em 0;">
+    ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
+  </p>
+
+  <b style="display:block; margin-bottom:0.5em;">
     About ContextokenizeX
   </b>
 
   <p style="margin:0;">
-    ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.<br/>
     ContextokenizeX allows you to work with files and sources more efficiently.<br/>
     Search the contexts fast and easy in order to find the context tokenized data.<br/>
     Upload files right into the program, set the token and subtoken to find more precise contexts.
@@ -29,6 +33,7 @@
   <p style="margin-top:0.5em;">
     <strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
   </p>
+
 </td>
 </tr>
 </table>
