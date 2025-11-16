@@ -125,7 +125,7 @@
 
 **Used Framework -> Qt 6.5.3 Framework**  
 
-**Programming language -> C++17**  
+**Language -> C++17**  
 
 **Used qtkits windows -> msvc2019_64 linux -> g++ (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0**  
 
