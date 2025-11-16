@@ -18,7 +18,7 @@ ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with 
 which allows you to work with files and sources more efficiently.  
 Search the context fast and easy in order to get needed data.  
 Upload files right into the program, set the token and subtoken to find more precise contexts.  
-<br/><strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
+<br/><br/><strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
 </p>
 </td>
 </tr>
