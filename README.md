@@ -13,7 +13,7 @@
 <strong style="font-size: 22px;">
 ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.
 </strong>
-<br/><br/>
+<br/>
 <p align="left">
 <b>About ContextokenizeX</b><br/>
 <p align="left">ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.</p>
