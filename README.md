@@ -45,7 +45,8 @@
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
 ## Linux x86-64
-**{NOTE}Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**
+**{NOTE}Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
+
 *First download the AppImage from here -> [ContextokenizeX release for linux x86-64](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage) and make it executable with ```chmod +x ./ContextokenizeX.AppImage```*  
 
 *Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl ```libOpenGL.so.0``` install it on your machine (e.g for Ubuntu 24.04 -> ```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```) and follow the next steps below*  
@@ -54,7 +55,8 @@
 
 *If you can't or don't have FUSE on your platform try following steps: extract the appimage with ```./ContextokenizeX.AppImaage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
 
-*If you are having issues with launching it, try to launch with ```--platform xcb``` argument (e.g ./ContextokenizeX.AppImaage --platform xcb) to launch it with X11 windowing system*
+*If you are having issues with launching it, try to launch with ```--platform xcb``` argument (e.g ./ContextokenizeX.AppImage --platform xcb) to launch it with X11 windowing system*
+
 
 # Support me 
 **[Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)**
