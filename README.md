@@ -98,7 +98,7 @@
 *```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
 *```cmake --build release --config Release```*  
 
-**Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX```* 
+**Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX.exe```* 
 
 ## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**  
