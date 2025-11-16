@@ -47,20 +47,32 @@
 **If the *Subtoken* is empty, but *Token* is not it will assume that your *Subtoken==Token***  
 **e.g raw input data = bit by bit and I got a bit of data | Token = bit | Subtoken =  (empty) will return:** 
 *Token: bit*
+
 *Subtoken:*
+
 *Entrypoints: 3*
+
 *[1] => bit. by bit. and I got a bit of data.*
+
 *[2] => bit. and I got a bit of data.*
+
 *[3] => bit of data.*
+
 *Estimated time: 4 µs*  
 
 **The same sample above, but with specified Subtoken: . (a dot) will return:**
 *Token: bit*
+
 *Subtoken: .*
+
 *Entrypoints: 3*
+
 *[1] => bit.*
+
 *[2] => bit.*
+
 *[3] => bit of data.*
+
 *Estimated time: 4 µs*
 
 **If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there are found subtoken it will return them mixed:**
