@@ -14,13 +14,13 @@
 ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.
 </strong>
 <br/><br/>
-<p align="left">
+<p align="left" style="margin: 0;">
 <b>About ContextokenizeX</b><br/>
+ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.<br/>
+ContextokenizeX allows you to work with files and sources more efficiently.<br/>
+Search the contexts fast and easy in order to find the context tokenized data.<br/>
+Upload files right into the program, set the token and subtoken to find more precise contexts.
 </p>
-<p align="left">ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.</p>
-<p align="left">ContextokenizeX allows you to work with files and sources more efficiently.  </p>
-<p align="left">Search the contexts fast and easy in order to find the context tokenized data data.</p>
-<p align="left">Upload files right into the program, set the token and subtoken to find more precise contexts.</p>  
 <p align="left">
 <strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
 </p>
