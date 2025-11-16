@@ -38,26 +38,26 @@
 
 # Installation 
 ## Windows x64
-*To install the program on Windows 10-11 (any edition) first download it from: [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
+**To install the program on Windows 10-11 (any edition) first download it from:** *[Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
 
-*Unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
+**Unzip it go into the ContextokenizeX folder and run** *ContextokenizeX.exe*  
 
-*If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from: [latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
+**If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from:** *[latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
 
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
 ## Linux x86-64
 **{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
 
-*First download the AppImage from [ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
+**First download the AppImage from:** *[ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
 **Make it executable with:** *```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
 
-*Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl ```libOpenGL.so.0``` install it on your machine*  
+**Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl:** *```libOpenGL.so.0``` install it on your machine*  
 
 **e.g for Ubuntu 24.04:**  *```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```*  
 
-*In order to run ContextokenizeX you need FUSE to run '.AppImage', install FUSE*  
+**In order to run ContextokenizeX you need FUSE to run '.AppImage', install FUSE**  
 
 **e.g Ubuntu 22.04 or higher:** *```sudo apt install fuse``` or ```sudo apt install libfuse2```*  
 
@@ -67,7 +67,7 @@
 
 **If you are having issues with launching it, try to launch with:** *```--platform xcb``` argument*  
 
-*e.g: ```./ContextokenizeX.AppImage --platform xcb``` to launch it with X11 windowing system*
+*e.g: ```./ContextokenizeX.AppImage --platform xcb```* **to launch it with X11 windowing system**
 
 
 # [Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
@@ -84,15 +84,15 @@
 ## Windows 10-11 x64
 **{NOTE} before building the project check the 'License' section!**  
 
-*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly*   
+**In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*   
 
-*Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
+**Then check the:** *'ContextokenizeX technical dependencies or used technology' **section below**   
 
-*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
+**After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**  
 
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool*  
+**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
 
-*Build example given below, Qt installation directory may vary:*  
+**Build example given below, Qt installation directory may vary:**  
 
 *```cmake -B release -G "Visual Studio 17 2022" ^```*  
 *```    -DCMAKE_BUILD_TYPE=Release ^```*  
@@ -100,29 +100,29 @@
 *```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
 *```cmake --build release --config Release```*  
 
-*Go to the release directory or run it from current directory via:* *```start release/ContextokenizeX.exe```* 
+**Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX.exe```* 
 
 ## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**  
 
-*In order to build the ContextokenizeX first clone the project with:* *```git clone``` or download it directly*  
+**In order to build the ContextokenizeX first clone the project with:** *```git clone```* **or download it directly**  
 
-*Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
+**Then check the:** *'ContextokenizeX technical dependencies or used technology'* **section below**   
+ 
+**After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**   
 
-*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
+**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
 
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool*  
-
-*build example given below, Qt installation directory may vary):*  
+**build example given below, Qt installation directory may vary:**  
 
 *```cmake -B release \```*  
 *```    -DCMAKE_BUILD_TYPE=Release \```*  
 *```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*  
 *```cmake --build release```*  
 
-*Go to the release directory or run it from current directory via:* *```./release/ContextokenizeX```*  
+**Go to the release directory or run it from current directory via:** *```./release/ContextokenizeX```*  
 
-**If you are having launching issues on Wayland try running the binary with:** *```--platform xcb``` argument*
+**If you are having launching issues on Wayland try running the binary with:** *```--platform xcb```* **argument**
 
 # ContextokenizeX's technical dependencies or used technology
 **The ContextokenizeX was built on Ubuntu 22.04 glibc>=2.35**  
