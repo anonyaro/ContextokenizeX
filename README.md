@@ -38,7 +38,7 @@
 
 # Installation 
 ## Windows x64
-*To install the program on windows 10-11 (any edition) just download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
+*To install the program on Windows 10-11 (any edition) first download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
 
 *Unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
 
