@@ -47,7 +47,7 @@
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
 ## Linux x86-64
-**{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow:**  
+**{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
 
 *First download the AppImage from [ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
@@ -90,7 +90,9 @@
 
 *After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
 
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
+**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then:**  
+
+*(build example given below, Qt installation directory may vary): *  
 
 *```cmake -B release -G "Visual Studio 17 2022" ^```*  
 *```    -DCMAKE_BUILD_TYPE=Release ^```*  
