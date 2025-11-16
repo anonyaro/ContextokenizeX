@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **If you are having launching issues on Wayland try running the binary with:** *```--platform xcb```* **argument**
 
-# ContextokenizeX's technical dependencies or used technology
+# ContextokenizeX's dependencies and used technology
 **The ContextokenizeX was built on Ubuntu 22.04 glibc>=2.35**  
 
 **Used Framework -> Qt 6.5.3 Framework**  
