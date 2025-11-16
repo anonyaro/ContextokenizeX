@@ -96,7 +96,7 @@
 ## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**  
 
-**In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*  
+*In order to build the ContextokenizeX first clone the project with:* *```git clone``` or download it directly*  
 
 *Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
 
