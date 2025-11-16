@@ -36,11 +36,11 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 # Usage
 *Context tokenized data* **is your output data or in other words found contexts**  
 
-*Raw input data* **is the plain text where you want to search your context supports UTF-8**  
+*Raw input data* **is the plain text where you want to search your context (supports UTF-8)**  
 
 *Token* **is what you want to find in** *raw input data*  
 
-*Subtoken* ** is the token's end point or the end point of the context you want to search**  
+*Subtoken* **is the token's end point or the end point of the context you want to search**  
 
 **If the *Token* is empty it will return the *Raw input data* because there is nothing to search for**  
 
