@@ -1,18 +1,33 @@
-<p>
+<table>
+<tr>
+<td width="256" align="center" valign="top">
   <img 
     src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
-    width="256" height="256"
-    style="vertical-align: middle;"
+    width="256" height="256" 
+    alt="logo"
   />
+</td>
+<td valign="top">
 
-  <span style="font-size: 26px; font-weight: bold; vertical-align: middle;">
-    <strong>ContextokenizeX</strong>
-  </span>
+<strong style="font-size: 22px;">
+ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
+</strong>
 
-  <span style="vertical-align: middle;">
-    — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
-  </span>
+<br/><br/>
+
+<p align="left">
+<b>About ContextokenizeX</b><br/>
+ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
+which allows you to work with files and sources more efficiently.  
+Search the context fast and easy in order to get needed data.  
+Upload files right into the program, set the token and subtoken to find more precise contexts.  
+Please read the LICENSE before installing and using ContextokenizeX.
 </p>
+
+</td>
+</tr>
+</table>
+
 
 # Overview
 
