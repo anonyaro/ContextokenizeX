@@ -61,7 +61,8 @@
 
 **e.g Ubuntu 22.04 or higher:** *```sudo apt install fuse``` or ```sudo apt install libfuse2```*  
 
-**If you can't or don't have FUSE on your platform try following steps:** *extract the appimage with:*
+**If you can't or don't have FUSE on your platform try following steps:** *extract the appimage with:*  
+
 *```./ContextokenizeX.AppImaage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
 
 **If you are having issues with launching it, try to launch with** *```--platform xcb``` argument (e.g ./ContextokenizeX.AppImage --platform xcb) to launch it with X11 windowing system*
