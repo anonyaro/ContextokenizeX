@@ -131,7 +131,9 @@
 
 **Was built using .qml  instead of QWidgets since qml provides modern rendering methology and more flexible when working with UI's**  
 
-**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow and also to make OS independent GUI with custom server panel**  
+**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow**  
+
+**Also to make OS independent GUI with custom server panel**  
 
 **The 'UI' part was fully written in .qml with Connectons to handle various types of signals such as file reading/update section etc**  
 
