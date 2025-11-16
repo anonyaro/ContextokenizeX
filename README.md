@@ -90,7 +90,7 @@
 
 *After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
 
-**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
+*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool*  
 
 *Build example given below, Qt installation directory may vary:*  
 
@@ -100,7 +100,7 @@
 *```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
 *```cmake --build release --config Release```*  
 
-**Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX.exe```* 
+*Go to the release directory or run it from current directory via:* *```start release/ContextokenizeX.exe```* 
 
 ## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**  
@@ -111,7 +111,7 @@
 
 *After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
 
-**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
+*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool*  
 
 *build example given below, Qt installation directory may vary):*  
 
@@ -120,7 +120,7 @@
 *```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*  
 *```cmake --build release```*  
 
-**Go to the release directory or run it from current directory via:** *```./release/ContextokenizeX```*  
+*Go to the release directory or run it from current directory via:* *```./release/ContextokenizeX```*  
 
 **If you are having launching issues on Wayland try running the binary with:** *```--platform xcb``` argument*
 
