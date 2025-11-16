@@ -60,7 +60,7 @@
 
 *In order to run ContextokenizeX you need FUSE to run '.AppImage', install FUSE*  
 
-*e.g Ubuntu 22.04 or higher: *  
+**e.g Ubuntu 22.04 or higher:**  
 *```sudo apt install fuse``` or ```sudo apt install libfuse2```)*  
 
 *If you can't or don't have FUSE on your platform try following steps: extract the appimage with ```./ContextokenizeX.AppImaage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
