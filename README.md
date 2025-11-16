@@ -109,7 +109,9 @@
 *```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*  
 *```cmake --build release```*  
 
-*Go to the release directory or run it from current directory via ```./release/ContextokenizeX```  if you are having launching issues on Wayland try running the binary with ```--platform xcb``` argument*
+**Go to the release directory or run it from current directory via:** *```./release/ContextokenizeX```*  
+
+**If you are having launching issues on Wayland try running the binary with:** *```--platform xcb``` argument*
 
 # ContextokenizeX's technical dependencies or used technology
 **The ContextokenizeX was built on Ubuntu 22.04 glibc>=2.35**  
@@ -122,7 +124,7 @@
 
 **Was built using .qml  instead of QWidgets since qml provides modern rendering methology and more flexible when working with UI's**  
 
-**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow and also to make OS independent GUI with custom server panel*  
+**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow and also to make OS independent GUI with custom server panel**  
 
 **The 'UI' part was fully written in .qml with Connectons to handle various types of signals such as file reading/update section etc**  
 
