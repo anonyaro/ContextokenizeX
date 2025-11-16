@@ -78,12 +78,9 @@
 *To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
 
 *```cmake -B release -G "Visual Studio 17 2022" ^```*  
-
 *```    -DCMAKE_BUILD_TYPE=Release ^```*  
-
 *```    -DCMAKE_PREFIX_PATH="C:/Qt/6.5.3/msvc2019_64/lib/cmake" ^```*  
 *```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
-
 *```cmake --build release --config Release```*  
 
 *Go to the release directory or run it from current directory via ```release/ContextokenizeX```* 
