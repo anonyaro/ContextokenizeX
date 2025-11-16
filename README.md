@@ -45,7 +45,9 @@
 **If the *Token* is empty it will return the *Raw input data* because there is nothing to search for**  
 
 **If the *Subtoken* is empty, but *Token* is not it will assume that your *Subtoken==Token***  
+
 **e.g raw input data = bit by bit and I got a bit of data | Token = bit | Subtoken =  (empty) will return:** 
+
 *Token: bit*
 
 *Subtoken:*
@@ -61,6 +63,7 @@
 *Estimated time: 4 µs*  
 
 **The same sample above, but with specified Subtoken: . (a dot) will return:**
+
 *Token: bit*
 
 *Subtoken: .*
@@ -76,6 +79,7 @@
 *Estimated time: 4 µs*
 
 **If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there are found subtoken it will return them mixed:**
+
 *e.g: from Token to Token until it finds Subtoken (prints the context) and again until finds next Subtoken to print the context, it's not really recommended to do that since, contexted data might mix a lot*  
 
 **{NOTE-1} Avoid contexting really big files or data, since it's not designed to work with huge chunks of data, instead manage your input data part by part**  
