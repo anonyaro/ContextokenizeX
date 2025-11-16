@@ -11,14 +11,14 @@
 </td>
 <td valign="top">
 <strong style="font-size: 22px;">
-ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with custom GUI.
+ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.
 </strong>
 <br/><br/>
 <p align="left">
 <b>About ContextokenizeX</b><br/>
-ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
-which allows you to work with files and sources more efficiently.  
-Search the context fast and easy in order to get needed data.  
+ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.  
+ContextokenizeX allows you to work with files and sources more efficiently.  
+Search the contexts fast and easy in order to find the context tokenized data data.  
 Upload files right into the program, set the token and subtoken to find more precise contexts.  
 </p>
 <p align="left">
