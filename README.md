@@ -80,7 +80,7 @@
 
 **If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there is/are found subtoken(s) it will return mixed *Context tokenized data*:**
 
-*e.g: from Token to Token until it finds Subtoken (prints the context) and again until finds next Subtoken to print the context, it's not really recommended to do that since, contexted data might mix a lot*  
+*e.g: from Token to Token until it finds Subtoken (prints the context) and again until finds next Subtoken to print the context, it's not really recommended to do that since, context tokenized data might mix a lot*  
 
 **{NOTE-1} Avoid contexting really big files or data, since it's not designed to work with huge chunks of data, instead manage your input data part by part**  
 
