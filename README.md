@@ -53,13 +53,13 @@
 
 **Make it executable with:** *```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
 
-**Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl:** *```libOpenGL.so.0``` install it on your machine*  
+**Since the ContextokenizeX.AppImage was built on glibc 2.35 you might need required system dependencies such as:** *```libOpenGL.so.0```*  
 
-**e.g for Ubuntu 24.04:**  *```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```*  
+**e.g to install opengl on Ubuntu 24.04:**  *```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```*  
 
-**In order to run ContextokenizeX you need FUSE to run '.AppImage', install FUSE**  
+**In order to run ContextokenizeX you need FUSE to run '.AppImage'**  
 
-**e.g Ubuntu 22.04 or higher:** *```sudo apt install fuse``` or ```sudo apt install libfuse2```*  
+**e.g to  install FUSE on Ubuntu 22.04 or higher:** *```sudo apt install fuse``` or ```sudo apt install libfuse2```*  
 
 **If you can't or don't have FUSE on your platform try following steps:** *extract the appimage with:*  
 
