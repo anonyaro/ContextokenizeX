@@ -91,12 +91,12 @@
 *```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
 *```cmake --build release --config Release```*  
 
-*Go to the release directory or run it from current directory via ```release/ContextokenizeX```* 
+**Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX```* 
 
 ## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**  
 
-*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly*  
+**In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*  
 
 *Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
 
