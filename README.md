@@ -139,7 +139,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*   
 
-**Then check the:** *'ContextokenizeX technical dependencies or used technology' **section below**   
+**Then check the:** *'ContextokenizeX's dependencies and used technology' **section below**   
 
 **After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**  
 
@@ -160,7 +160,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone```* **or download it directly**  
 
-**Then check the:** *'ContextokenizeX technical dependencies or used technology'* **section below**   
+**Then check the:** *'ContextokenizeX's dependencies and used technology'* **section below**   
  
 **After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**   
 
