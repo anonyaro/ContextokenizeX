@@ -47,7 +47,7 @@
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
 ## Linux x86-64
-**{NOTE}Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
+**{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow:**  
 
 *First download the AppImage from [ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
@@ -67,41 +67,68 @@
 
 # Building ContextokenizeX
 ## Windows 10-11 x64
-**{NOTE} before building the project check the 'License' section!**
-*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly* 
-*Then check the ' ContextokenizeX technical dependencies or used technology' section below*
-*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *
-*```cmake -B release -G "Visual Studio 17 2022" ^```*
-*```    -DCMAKE_BUILD_TYPE=Release ^```*
-*```    -DCMAKE_PREFIX_PATH="C:/Qt/6.5.3/msvc2019_64/lib/cmake" ^```*
-*```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*
-*```cmake --build release --config Release```*
-*Go to the release directory or run it from current directory via ```release/ContextokenizeX```*
+**{NOTE} before building the project check the 'License' section!**  
+
+*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly*   
+
+*Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
+
+*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
+
+*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
+
+*```cmake -B release -G "Visual Studio 17 2022" ^```*  
+
+*```    -DCMAKE_BUILD_TYPE=Release ^```*  
+
+*```    -DCMAKE_PREFIX_PATH="C:/Qt/6.5.3/msvc2019_64/lib/cmake" ^```*  
+*```    -DQT_BIN_DIR="C:/Qt/6.5.3/msvc2019_64/bin"```*  
+
+*```cmake --build release --config Release```*  
+
+*Go to the release directory or run it from current directory via ```release/ContextokenizeX```* 
 
 ## Linux x86-64 
-**{NOTE} before building the project check the 'License' section!**
-*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly* 
-*Then check the ' ContextokenizeX technical dependencies or used technology' section below*
-*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *
-*```cmake -B release \```*
-*```    -DCMAKE_BUILD_TYPE=Release \```*
-*```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*
-*```cmake --build release```*
+**{NOTE} before building the project check the 'License' section!**  
+
+*In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly*  
+
+*Then check the ' ContextokenizeX technical dependencies or used technology' section below*  
+
+*After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
+
+*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
+
+*```cmake -B release \```*  
+
+*```    -DCMAKE_BUILD_TYPE=Release \```*  
+
+*```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*  
+
+*```cmake --build release```*  
+
 *Go to the release directory or run it from current directory via ```./release/ContextokenizeX```  if you are having launching issues on Wayland try running the binary with ```--platform xcb``` argument*
 
 # ContextokenizeX's technical dependencies or used technology
-**The ContextokenizeX was built on Ubuntu 22.04 glibc>=2.35**
-**Used Framework -> Qt 6.5.3 Framework**
-**Programming language -> C++17**
-**Used qtkits windows -> msvc2019_64 linux -> g++ (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0**
-**Was built using .qml  instead of QWidgets since qml provides modern rendering methology and more flexible when working with UI's**
-**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow and also to make OS independent GUI with custom server panel*
-**The 'UI' part was fully written in .qml with Connectons to handle various types of signals such as file reading/update section etc**
-**Build system -> cmake/ninja was used due to its flexibility and being platform independent**
-**Packaging system used on windows -> windeployqt with archiving alltogether through winrar**
-**.AppImage packaging system was used for linux -> linuxdeploy-x86_64 with linuxdeploy-plugin-qt-x86_64**
+**The ContextokenizeX was built on Ubuntu 22.04 glibc>=2.35**  
+
+**Used Framework -> Qt 6.5.3 Framework**  
+
+**Programming language -> C++17**  
+
+**Used qtkits windows -> msvc2019_64 linux -> g++ (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0**  
+
+**Was built using .qml  instead of QWidgets since qml provides modern rendering methology and more flexible when working with UI's**  
+
+**QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow and also to make OS independent GUI with custom server panel*  
+
+**The 'UI' part was fully written in .qml with Connectons to handle various types of signals such as file reading/update section etc**  
+
+**Build system -> cmake/ninja was used due to its flexibility and being platform independent**  
+
+**Packaging system used on windows -> windeployqt with archiving alltogether through winrar**  
+
+**.AppImage packaging system was used for linux -> linuxdeploy-x86_64 with linuxdeploy-plugin-qt-x86_64**  
 
 # **Minimum Requirements (may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section**
 | Component | Requirement |
