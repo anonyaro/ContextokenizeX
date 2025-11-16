@@ -2,10 +2,11 @@
 <tr>
 <td width="256" align="center" valign="top">
   <a href="https://github.com/anonyaro/ContextokenizeX">
-    <div style="width:256px; height:256px; overflow:hidden; border-radius:4px;">
+    <div style="width:256px; height:256px; overflow:hidden; display:block;">
       <img 
         src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
-        style="width:100%; height:100%; object-fit:cover;" 
+        width="256" height="256" 
+        style="width:256px; height:256px; object-fit:cover; display:block;" 
         alt="logo"
       />
     </div>
