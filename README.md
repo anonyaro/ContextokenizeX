@@ -9,9 +9,9 @@
 </td>
 <td valign="top">
 <strong style="font-size: 22px;">
-ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
+ContextokenizeX — is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
 </strong>
-<br/>
+<br/><br/>
 <p align="left">
 <b>About ContextokenizeX</b><br/>
 ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
