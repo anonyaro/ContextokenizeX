@@ -74,7 +74,7 @@
   <a href="https://www.donationalerts.com/r/xenyaro">
     <img 
       src="https://github.com/user-attachments/assets/c89418ad-5a77-4cca-961f-bd8613ad0466"
-      width="128" height="128"
+      width="160" height="160"
       alt="logo"
       style="display:block;"
     />
