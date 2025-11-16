@@ -1,32 +1,30 @@
-<table style="border: none;">
-<tr style="border: none;">
-<td width="256" align="center" valign="top" style="border: none;">
+<div style="display: flex; align-items: flex-start;">
+  
   <img 
-    src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
+    src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24"
     width="256" height="256" 
     alt="logo"
+    style="margin-right: 20px;"
   />
-</td>
-<td valign="top" style="border: none;">
 
-<strong style="font-size: 22px;">
-ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
-</strong>
+  <div>
 
-<br/>
+  <strong style="font-size: 22px;">
+    ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
+  </strong>
 
-<p align="left">
-<b>About ContextokenizeX</b><br/>
-ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
-which allows you to work with files and sources more efficiently.  
-Search the context fast and easy in order to get needed data.  
-Upload files right into the program, set the token and subtoken to find more precise contexts.  
-Please read the LICENSE before installing and using ContextokenizeX.
-</p>
+  <br/><br/>
 
-</td>
-</tr>
-</table>
+  <b>About ContextokenizeX</b><br/>
+  ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
+  which allows you to work with files and sources more efficiently.  
+  Search the context fast and easy in order to get needed data.  
+  Upload files right into the program, set the token and subtoken to find more precise contexts.  
+  Please read the LICENSE before installing and using ContextokenizeX.
+
+  </div>
+</div>
+
 
 
 
