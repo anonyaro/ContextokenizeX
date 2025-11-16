@@ -2,17 +2,17 @@
 <tr>
 <td width="256" align="center" valign="top">
   <a href="https://github.com/anonyaro/ContextokenizeX">
-    <div style="width:256px; height:256px; overflow:hidden; display:block;">
-      <img 
-        src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
-        width="256" height="256" 
-        style="width:256px; height:256px; object-fit:cover; display:block;" 
-        alt="logo"
-      />
+    <div style="
+        width: 256px; 
+        height: 256px; 
+        background-image: url('https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24'); 
+        background-size: cover; 
+        background-position: center; 
+        border-radius: 4px;">
     </div>
   </a>
 </td>
-<td valign="top">
+<td valign="top" style="padding-left: 20px;">
   <strong style="font-size:22px;">
     ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with custom GUI.
   </strong>
@@ -30,6 +30,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
