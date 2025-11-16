@@ -34,7 +34,41 @@
 # Overview
 
 # Usage
+*Contexted data* **is your output data or in other words found contexts**  
 
+*Raw input data* **is the plain text where you want to search your context supports UTF-8**  
+
+*Token* **is what you want to find in** *raw input data*  
+
+*Subtoken* ** is the token's end point or the end point of the context you want to search**  
+
+**If the *Token* is empty it will return the *Raw input data* because there is nothing to search for**  
+
+**If the *Subtoken* is empty, but *Token* is not it will assume that your *Subtoken==Token***  
+**e.g raw input data = bit by bit and I got a bit of data | Token = bit | Subtoken =  (empty) will return:** 
+*Token: bit*
+*Subtoken:*
+*Entrypoints: 3*
+*[1] => bit. by bit. and I got a bit of data.*
+*[2] => bit. and I got a bit of data.*
+*[3] => bit of data.*
+*Estimated time: 4 µs*  
+
+**The same sample above, but with specified Subtoken: . (a dot) will return:**
+*Token: bit*
+*Subtoken: .*
+*Entrypoints: 3*
+*[1] => bit.*
+*[2] => bit.*
+*[3] => bit of data.*
+*Estimated time: 4 µs*
+
+**If the subtoken not found in the text it will assume that your *Subtoken==Token*, but if there are found subtoken it will return them mixed:**
+*e.g: from Token to Token until it finds Subtoken (prints the context) and again until finds next Subtoken to print the context, it's not really recommended to do that since, contexted data might mix a lot*  
+
+**{NOTE-1} Avoid contexting really big files or data, since it's not designed to work with huge chunks of data, instead manage your input data part by part**
+**{NOTE-2} Always try to specify the *Subtoken*, it makes it faster to search, make sure that specified *Subtoken* exists in your input data**
+**{NOTE-3} Contexting data of files such as: *binary, doc/docx/pdf etc* is not supported yet due to their different data structure, but you can still paste data from there manually**
 
 # Installation 
 ## Windows x64
