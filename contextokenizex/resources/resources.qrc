@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../ui/window.qml</file>
+        <file>background.gif</file>
+        <file>../icons/icon_32.png</file>
+        <file>../icons/icon_64.png</file>
+        <file>../icons/main.png</file>
+    </qresource>
+</RCC>
