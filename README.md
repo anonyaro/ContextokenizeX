@@ -1,9 +1,8 @@
 <h1>
   <img width="64" height="64" alt="main" src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" />
   <strong>ContextokenizeX</strong>
-  <strong>ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.</strong>
 </h1>
-
+# ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
 # Overview
 
 # About ContextokenizeX
