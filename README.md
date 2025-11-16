@@ -73,8 +73,8 @@
 # [Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
   <a href="https://www.donationalerts.com/r/xenyaro">
     <img 
-      src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24"
-      width="256" height="256"
+      src="https://github.com/user-attachments/assets/c89418ad-5a77-4cca-961f-bd8613ad0466"
+      width="100" height="300"
       alt="logo"
       style="display:block;"
     />
