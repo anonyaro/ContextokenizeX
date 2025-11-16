@@ -65,7 +65,9 @@
 
 *```./ContextokenizeX.AppImaage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
 
-**If you are having issues with launching it, try to launch with** *```--platform xcb``` argument (e.g ./ContextokenizeX.AppImage --platform xcb) to launch it with X11 windowing system*
+**If you are having issues with launching it, try to launch with:** *```--platform xcb``` argument*  
+
+*e.g ```./ContextokenizeX.AppImage --platform xcb``` to launch it with X11 windowing system*
 
 
 # Support me 
