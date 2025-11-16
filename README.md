@@ -1,30 +1,31 @@
 <table>
 <tr>
 <td width="256" align="center" valign="top">
-<a href="https://github.com/anonyaro/ContextokenizeX">
-  <img 
-    src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
-    width="256" height="256" 
-    style="object-fit: cover; border-radius: 4px;"
-    alt="logo"
-  />
-</a>
+  <a href="https://github.com/anonyaro/ContextokenizeX">
+    <div style="width:256px; height:256px; overflow:hidden; border-radius:4px;">
+      <img 
+        src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
+        style="width:100%; height:100%; object-fit:cover;" 
+        alt="logo"
+      />
+    </div>
+  </a>
 </td>
 <td valign="top">
-<strong style="font-size: 22px;">
-ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.
-</strong>
-<br/><br/>
-<p align="left" style="margin: 0;">
-<b>About ContextokenizeX</b><br/>
-ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent custom GUI.<br/>
-ContextokenizeX allows you to work with files and sources more efficiently.<br/>
-Search the contexts fast and easy in order to find the context tokenized data.<br/>
-Upload files right into the program, set the token and subtoken to find more precise contexts.
-</p>
-<p align="left">
-<strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
-</p>
+  <strong style="font-size:22px;">
+    ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with custom GUI.
+  </strong>
+  <br/><br/>
+  <p align="left" style="margin:0;">
+    <b>About ContextokenizeX</b><br/>
+    ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.<br/>
+    ContextokenizeX allows you to work with files and sources more efficiently.<br/>
+    Search the contexts fast and easy in order to find the context tokenized data.<br/>
+    Upload files right into the program, set the token and subtoken to find more precise contexts.
+  </p>
+  <p align="left" style="margin-top:0.5em;">
+    <strong>Please read the LICENSE before installing and using ContextokenizeX.</strong>
+  </p>
 </td>
 </tr>
 </table>
