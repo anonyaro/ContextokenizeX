@@ -1,9 +1,13 @@
-<p align="left">
-  <img width="32" height="32" alt="main" 
-       src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24"
-       style="vertical-align: middle;" />
+<p>
+  <img 
+    src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
+    width="32" height="32"
+    style="vertical-align: middle;"
+  />
 
-  <strong style="font-size: 24px; vertical-align: middle;">ContextokenizeX</strong>
+  <span style="font-size: 26px; font-weight: bold; vertical-align: middle;">
+    ContextokenizeX
+  </span>
 
   <span style="vertical-align: middle;">
     — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
