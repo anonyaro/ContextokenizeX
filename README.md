@@ -5,6 +5,7 @@
   <img 
     src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" 
     width="256" height="256" 
+    style="object-fit: cover; border-radius: 4px;"
     alt="logo"
   />
 </a>
