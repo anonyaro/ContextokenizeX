@@ -6,7 +6,7 @@
   />
 
   <span style="font-size: 26px; font-weight: bold; vertical-align: middle;">
-    ContextokenizeX
+    <strong>ContextokenizeX</strong>
   </span>
 
   <span style="vertical-align: middle;">
