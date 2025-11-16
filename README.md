@@ -38,11 +38,11 @@
 
 # Installation 
 ## Windows x64
-*To install the program on Windows 10-11 (any edition) first download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
+*To install the program on Windows 10-11 (any edition) first download it from: [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
 
 *Unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
 
-*If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from [latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
+*If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from: [latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
 
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
@@ -51,7 +51,7 @@
 
 *First download the AppImage from [ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
-**Make it executable with** *```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
+**Make it executable with:** *```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
 
 *Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl ```libOpenGL.so.0``` install it on your machine*  
 
@@ -67,7 +67,7 @@
 
 **If you are having issues with launching it, try to launch with:** *```--platform xcb``` argument*  
 
-*e.g ```./ContextokenizeX.AppImage --platform xcb``` to launch it with X11 windowing system*
+*e.g: ```./ContextokenizeX.AppImage --platform xcb``` to launch it with X11 windowing system*
 
 
 # [Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
@@ -144,7 +144,7 @@
 **.AppImage packaging system was used for linux -> linuxdeploy-x86_64 with linuxdeploy-plugin-qt-x86_64**  
 
 # **Minimum Requirements** 
-**may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section**
+<u>**may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section**</u>
 | Component | Requirement |
 | ---------------------- | ------------------------------------------ |
 | **Processor** | 1 GHz or faster, with PAE, NX, and SSE2 support |
