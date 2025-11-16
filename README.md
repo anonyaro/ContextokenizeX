@@ -8,13 +8,10 @@
   />
 </td>
 <td valign="top">
-
 <strong style="font-size: 22px;">
 ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with OS independent GUI.
 </strong>
-
-<br/><br/>
-
+<br/>
 <p align="left">
 <b>About ContextokenizeX</b><br/>
 ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI,  
@@ -23,7 +20,6 @@ Search the context fast and easy in order to get needed data.
 Upload files right into the program, set the token and subtoken to find more precise contexts.  
 Please read the LICENSE before installing and using ContextokenizeX.
 </p>
-
 </td>
 </tr>
 </table>
