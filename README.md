@@ -187,6 +187,8 @@ https://github.com/user-attachments/assets/706c4c32-f8f3-4358-8390-8e2fc9334951
 
 **Used qtkits windows -> msvc2019_64 linux -> g++ (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0**  
 
+**Used Qt6 required components: *Quick, QuickControls2, Network, Qml, Core, Gui, Widgets, Concurrent***  
+
 **Was built using .qml  instead of QWidgets since qml provides modern rendering methology and more flexible when working with UI's**  
 
 **QApp was used instead of QGui window due to file dialog not being properly supported in QGuiWindow**  
