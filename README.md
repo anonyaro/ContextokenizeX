@@ -38,7 +38,7 @@
 
 # Installation 
 ## Windows x64
-*To install the program on windows 10-11 (any edition) just download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or click here -> [ContextokenizeX Windows x64 release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
+*To install the program on windows 10-11 (any edition) just download it from [Releases](https://github.com/anonyaro/ContextokenizeX/releases) or click here -> [ContextokenizeX Windows x64 latest release ](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar)*  
 
 *Unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*  
 
@@ -49,7 +49,9 @@
 ## Linux x86-64
 **{NOTE}Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
 
-*First download the AppImage from here -> [ContextokenizeX release for linux x86-64](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage) and make it executable with ```chmod +x ./ContextokenizeX.AppImage```*  
+*First download the AppImage from here -> [ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
+
+*Make it executable with ```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
 
 *Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl ```libOpenGL.so.0``` install it on your machine (e.g for Ubuntu 24.04 -> ```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```) and follow the next steps below*  
 
