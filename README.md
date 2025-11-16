@@ -1,8 +1,7 @@
-<img width="1024" height="1024" alt="main" src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" /> 
+<img width="256" height="256" alt="main" src="https://github.com/user-attachments/assets/59cb79ee-c11f-42ec-bcf9-5474e8426e24" /> 
 # ContextokenizeX
 ContextokenizeX is a modern, cross-platform, lightwieght context tokenizer with OS independent GUI
 # Overview
-![scase](https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393)
 
 # About ContextokenizeX
 *ContextokenizeX is a modern, cross-platform, lightwieght context tokenizer with OS independent GUI, which allows you to work with files and sources more efficiently*
