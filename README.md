@@ -97,11 +97,8 @@
 *To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
 
 *```cmake -B release \```*  
-
 *```    -DCMAKE_BUILD_TYPE=Release \```*  
-
 *```    -DCMAKE_PREFIX_PATH=/Qt/6.5.3/gcc_64/lib/cmake```*  
-
 *```cmake --build release```*  
 
 *Go to the release directory or run it from current directory via ```./release/ContextokenizeX```  if you are having launching issues on Wayland try running the binary with ```--platform xcb``` argument*
