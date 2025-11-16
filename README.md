@@ -44,12 +44,12 @@
 **Please read the LICENSE before installing and using ContextokenizeX**
 
 # Installation 
-##Windows x64
+## Windows x64
 *To install the program on windows 10-11 (any edition) just download it from Releases or click here -> [ContextokenizeX release for Windows (10-11) x64](https://github.com/anonyaro/ContextokenizeX/releases/download/winrelx64/ContextokenizeX.rar) unzip it go into the ContextokenizeX folder and run ContextokenizeX.exe*
 *If you are having crashes and issues with executing the program (e.g Error Runtime Library *.dll not found) you might also need to download and install MSVC redistributable package from here -> [latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*
 *If above suggestion didn't help [contact me](t.me/t3plc6x)*
 
-##Linux x86-64
+## Linux x86-64
 **{NOTE}Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**
 *First download the AppImage from here -> [ContextokenizeX release for linux x86-64](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage) and make it executable with ```chmod +x ./ContextokenizeX.AppImage```*
 *Since the ContextokenizeX.AppImage was built on glibc 2.35 you might not have required system dependencies such as opengl ```libOpenGL.so.0``` install it on your machine (e.g for Ubuntu 24.04 -> ```sudo apt install libgl1-mesa-dev``` or ```sudo apt install libgl1-mesa-dri libegl1 libglx-mesa0```) and follow the next steps below*
@@ -58,10 +58,10 @@
 *If you are having issues with launching it, try to launch with ```--platform xcb``` argument (e.g ./ContextokenizeX.AppImaage --platform xcb) to launch it with X11 windowing system*
 
 # Support me 
-***[Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)***
+**[Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)**
 
 # Building ContextokenizeX
-##Windows 10-11 x64
+## Windows 10-11 x64
 **{NOTE} before building the project check the 'License' section!**
 *In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly* 
 *Then check the ' ContextokenizeX technical dependencies or used technology' section below*
@@ -74,7 +74,7 @@
 *```cmake --build release --config Release```*
 *Go to the release directory or run it from current directory via ```release/ContextokenizeX```*
 
-##Linux x86-64 
+## Linux x86-64 
 **{NOTE} before building the project check the 'License' section!**
 *In order to build the ContextokenizeX first clone the project with ```git clone``` or download it directly* 
 *Then check the ' ContextokenizeX technical dependencies or used technology' section below*
