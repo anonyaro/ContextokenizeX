@@ -90,9 +90,9 @@
 
 *After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
 
-**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then:**  
+**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
 
-*(build example given below, Qt installation directory may vary): *  
+*Build example given below, Qt installation directory may vary:*  
 
 *```cmake -B release -G "Visual Studio 17 2022" ^```*  
 *```    -DCMAKE_BUILD_TYPE=Release ^```*  
@@ -111,7 +111,9 @@
 
 *After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps*  
 
-*To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool then (build example given below, Qt installation directory may vary): *  
+**To build the ContextokenizeX make sure you have all dependencies and cmake/ninja build tool**  
+
+*build example given below, Qt installation directory may vary):*  
 
 *```cmake -B release \```*  
 *```    -DCMAKE_BUILD_TYPE=Release \```*  
