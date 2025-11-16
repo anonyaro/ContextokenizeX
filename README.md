@@ -148,7 +148,7 @@
 **.AppImage packaging system was used for linux -> linuxdeploy-x86_64 with linuxdeploy-plugin-qt-x86_64**  
 
 # **Minimum Requirements** 
-<u>**may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section**</u>
+**<u>may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section</u>**
 | Component | Requirement |
 | ---------------------- | ------------------------------------------ |
 | **Processor** | 1 GHz or faster, with PAE, NX, and SSE2 support |
