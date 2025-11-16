@@ -15,7 +15,7 @@
     ContextokenizeX — a modern, cross-platform, lightweight context tokenizer with custom GUI.
   </strong>
   <p style="margin:0.5em 0 0 0;">
-    <b>About ContextokenizeX</b><br/>
+    <br/><br/><b>About ContextokenizeX</b>
     ContextokenizeX is a modern, cross-platform, lightweight context tokenizer with OS independent GUI.<br/>
     ContextokenizeX allows you to work with files and sources more efficiently.<br/>
     Search the contexts fast and easy in order to find the context tokenized data.<br/>
