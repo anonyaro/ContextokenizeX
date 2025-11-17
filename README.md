@@ -12,7 +12,7 @@
 </td>
 <td valign="top" style="padding-left:20px;">
   <strong style="font-size:22px; display:block; margin-bottom:0.5em;">
-    ContextokenizeX — an open-source, modern, cross-platform, lightweight context tokenizer with custom GUI.
+    ContextokenizeX is an open-source, modern, cross-platform, lightweight context tokenizer with custom GUI.
   </strong>
   <p style="margin:0 0 1em 0;">
   </p>
