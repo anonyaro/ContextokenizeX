@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **If you can't or don't have FUSE on your platform try following steps:** *extract the appimage with:*  
 
-*```./ContextokenizeX.AppImaage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
+*```./ContextokenizeX.AppImage --appimage-extract``` then launch it manually ```./squashfs-root/usr/bin/ContextokenizeX```*  
 
 **If you are having issues with launching it, try to launch with:** *```--platform xcb```* **argument**  
 
