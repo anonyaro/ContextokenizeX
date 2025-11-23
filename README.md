@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*   
 
-**Then check the:** *'ContextokenizeX's dependencies and used technology' **section below**   
+**Then check the:** *['ContextokenizeX's dependencies and used technology'](https://github.com/anonyaro/ContextokenizeX/blob/master/README.md#contextokenizexs-dependencies-and-used-technology)* **section**   
 
 **After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**  
 
@@ -159,7 +159,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone```* **or download it directly**  
 
-**Then check the:** *'ContextokenizeX's dependencies and used technology'* **section below**   
+**Then check the:** *['ContextokenizeX's dependencies and used technology'](https://github.com/anonyaro/ContextokenizeX/blob/master/README.md#contextokenizexs-dependencies-and-used-technology)* **section**      
  
 **After installing Qt 6.5.3 and all dependencies/packages go to the source directory and follow next steps**   
 
@@ -202,7 +202,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 **.AppImage packaging system was used for linux -> linuxdeploy-x86_64 with linuxdeploy-plugin-qt-x86_64**  
 
 # **Minimum Requirements** 
-**<u>may vary for Linux systems, check above 'ContextokenizeX's technical dependencies or used technology' section</u>**
+**<u>may vary for Linux systems, check the above *['ContextokenizeX's dependencies and used technology'](https://github.com/anonyaro/ContextokenizeX/blob/master/README.md#contextokenizexs-dependencies-and-used-technology)*  section</u>**
 | Component | Requirement |
 | ---------------------- | ------------------------------------------ |
 | **Processor** | 1 GHz or faster, with PAE, NX, and SSE2 support |
