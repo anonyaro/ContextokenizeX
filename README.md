@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 # Building ContextokenizeX
 ## Windows 10-11 x64
-**{NOTE} before building the project check the '[License](License.md)' section!**  
+**{NOTE} before building the project check the '[License](https://github.com/anonyaro/ContextokenizeX/blob/master/LICENSE)' section!**  
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*   
 
@@ -155,7 +155,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 **Go to the release directory or run it from current directory via:** *```start release/ContextokenizeX.exe```* 
 
 ## Linux x86-64 
-**{NOTE} before building the project check the '[License](License.md)' section!**  
+**{NOTE} before building the project check the '[License](https://github.com/anonyaro/ContextokenizeX/blob/master/LICENSE)' section!**  
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone```* **or download it directly**  
 
