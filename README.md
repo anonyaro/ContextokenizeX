@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 **If above suggestions didn't help:** *[let me know](https://github.com/anonyaro/ContextokenizeX/issues)*
 
 ## Linux x86-64
-**{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the 'Building ContextokenizeX section' since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
+**{NOTE} Released version of AppImage was built on Ubuntu 22.04 glibc>=2.35, so if you have glibc<2.35 (e.g Ubuntu 20.04) skip installation part and go to the *['Building ContextokenizeX section'](https://github.com/anonyaro/ContextokenizeX/blob/master/README.md#linux-x86-64-1)* since you might have dynamic linking conflicts with glibc, if not follow the steps bellow**  
 
 **First download the AppImage from:** *[ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
