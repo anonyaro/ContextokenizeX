@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 # Building ContextokenizeX
 ## Windows 10-11 x64
-**{NOTE} before building the project check the 'License' section!**  
+**{NOTE} before building the project check the '[License](License.md)' section!**  
 
 **In order to build the ContextokenizeX first clone the project with:** *```git clone``` or download it directly*   
 
