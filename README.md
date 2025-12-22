@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **Unzip it go into the ContextokenizeX folder and run:** *ContextokenizeX.exe*  
 
-**If you are having crashes and issues with executing the program (e.g Error Runtime Library .dll not found) you might also need to download and install MSVC redistributable package from:** *[latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
+**If you are having crashes and issues with executing the program (e.g: "Error Runtime Library .dll not found") you might also need to download and install MSVC redistributable package from:** *[latest vcredist v14 package_x64](https://aka.ms/vc14/vc_redist.x64.exe)*  
 
 **If above suggestions didn't help:** *[let me know](https://github.com/anonyaro/ContextokenizeX/issues)*
 
