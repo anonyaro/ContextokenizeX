@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **If you are having issues with launching it, try to launch with:** *```--platform xcb```* **argument**  
 
-**e.g to launch it with X11 windowing system:** ```./ContextokenizeX.AppImage --platform xcb```* 
+**e.g to launch it with X11 windowing system:** *```./ContextokenizeX.AppImage --platform xcb```* 
 
 
 # [Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
