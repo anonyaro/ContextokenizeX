@@ -103,6 +103,8 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **First download the AppImage from:** *[ContextokenizeX Linux x86-64 latest release](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/ContextokenizeX.AppImage)*  
 
+**Then simply download *[Installation script](https://github.com/anonyaro/ContextokenizeX/releases/download/linrelx64/install.sh)* and run *```bash ./install.sh```* if that didn't help proceed instructions below**  
+
 **Make it executable with:** *```chmod +x ./ContextokenizeX.AppImage``` and run ```./ContextokenizeX.AppImage```*  
 
 **Since the ContextokenizeX.AppImage was built on glibc 2.35 you might need required system dependencies such as:** *```libOpenGL.so.0```*  
