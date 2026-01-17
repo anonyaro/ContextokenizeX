@@ -183,7 +183,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 
 **Used Framework -> Qt 6.5.3 Framework**  
 
-**Language -> C++17**  
+**Language -> C++20**  
 
 **Used qtkits windows -> msvc2019_64 linux -> g++ (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0**  
 
