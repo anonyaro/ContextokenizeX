@@ -124,7 +124,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
 **e.g to launch it with X11 windowing system:** *```./ContextokenizeX.AppImage --platform xcb```* 
 
 
-# [Support me | ContextokenizeX](https://www.donationalerts.com/r/xenyaro)
+# [Support me | ContextokenizeX](https://dalink.to/xenyaro)
   <a href="https://dalink.to/xenyaro">
     <img 
       src="https://github.com/user-attachments/assets/e5fde689-83dc-41c5-96be-4ac1252dc50d"
