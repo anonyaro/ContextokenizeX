@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/502e2efe-78c0-4dfd-9638-50e23423d85e
   <a href="https://dalink.to/xenyaro">
     <img 
       src="https://github.com/user-attachments/assets/e5fde689-83dc-41c5-96be-4ac1252dc50d"
-      width="300" height="200"
+      width="300" height="300"
       alt="logo"
       style="display:block;"
     />
